@@ -16,6 +16,7 @@ Good Question. I don't know why either. It'll probably save some space in your p
 * I am using the [Dark Sky API](https://darksky.net/poweredby/) for this Weather App. It allows only 1000 API calls per day (obviously the free version). Try not to reload the page again & again and please don't spam the server for requests! <br />
 * Kindly refrain from using my weather API to build any of your other weather apps.
 * This is still in development phase and not ready for use yet. Do not trust the data from this app yet. Use it at your own risk!
+* Also, I have no clue about the compatibility of this app. I tested it on chrome in Android. Not sure about IOS. <b>Do tell me if you test it in any other interface. You can create an issue for it</b>
 
 ## Usage
 
